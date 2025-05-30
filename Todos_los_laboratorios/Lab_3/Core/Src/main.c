@@ -92,9 +92,9 @@ int main(void)
   MX_GPIO_Init();
   LCD_Init(LCD_4BITS_INTERFACE);
   LCD_Goto_XY(0, 0);
-  LCD_Print("yo");
+  LCD_Print("Diego");
   LCD_Goto_XY(0, 1);
-  LCD_Print("soy gei");
+  LCD_Print("Bastidas");
 
   /* USER CODE END 2 */
 
